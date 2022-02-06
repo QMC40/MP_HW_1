@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image">picture</string>
+    <string name="greeting">Happy Birthday Margarita!</string>
+    <string name="signature" />
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+</resources>
